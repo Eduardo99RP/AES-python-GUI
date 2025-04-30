@@ -25,12 +25,12 @@ Este proyecto es una aplicación de escritorio con interfaz gráfica construida 
 ## Uso
 #### 1. Clona este repositorio:
 ```bash
-git clone https://github.com/tu_usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/Eduardo99RP/AES-python-GUI.git
+cd AES-python-GUI
 ```
 #### 2. Ejecuta la aplicación:
 ```bash 
-python AES.py
+python3 AES_Int.py
 ```
 #### 3. Para cifrar un archivo:
 - Selecciona el archivo a cifrar.
